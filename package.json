@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zone117x/node-cryptonote-util.git"
+        "url": "https://github.com/darkfriend77/node-cryptonote-util.git"
     },
     "dependencies" : {
         "bindings" : "*"
